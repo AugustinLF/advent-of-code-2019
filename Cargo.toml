@@ -1,0 +1,7 @@
+[package]
+name = "advent-of-code-2019"
+version = "0.1.0"
+authors = ["Augustin Le Fèvre <augustin.public@gmail.com>"]
+
+[lib]
+doctest = false
